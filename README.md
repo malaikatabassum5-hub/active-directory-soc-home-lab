@@ -34,7 +34,13 @@ The purpose of this lab is to understand Windows domain environments, user manag
 
 ## Screenshots
 
-Selected screenshots from my lab will be added here.
+### Screenshot 1 — Active Directory Lab
+
+![Active Directory Lab](soc%201.png)
+
+### Screenshot 2 — SOC Lab Documentation
+
+![SOC Lab Documentation](soc%202.png)
 
 ## Disclaimer
 
