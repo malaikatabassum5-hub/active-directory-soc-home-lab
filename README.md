@@ -34,11 +34,11 @@ The purpose of this lab is to understand Windows domain environments, user manag
 
 ## Screenshots
 
-### Screenshot 1 — Active Directory Lab
+### Screenshot 1 — Network
 
 ![Active Directory Lab](soc%201.png)
 
-### Screenshot 2 — SOC Lab Documentation
+### Screenshot 2 — Implementing Wazuh
 
 ![SOC Lab Documentation](soc%202.png)
 
